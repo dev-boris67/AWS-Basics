@@ -48,7 +48,7 @@ Analyze and visualize Netflix titles using Amazon S3 and Amazon QuickSight. This
   - Genre Breakdown (Thrillers, Comedies, Action & Adventure)
 - Applied filters for timeframes and genres
 
-![Release Year Chart](https://yourdomain.com/images/release-year-chart.png)  
+![Release Year Chart](https://github.com/dev-boris67/AWS-Basics/blob/main/QuickSight/images/Screenshot%20(18).png?raw=true).  
 ![Genre Breakdown](https://yourdomain.com/images/genre-breakdown.png)  
 ![Date Added Chart](https://yourdomain.com/images/date-added-chart.png)
 
