@@ -15,7 +15,7 @@ Analyze and visualize Netflix titles using Amazon S3 and Amazon QuickSight. This
 
 ## 📁 Dataset
 
-- **Source**: [Kaggle Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- **Source**: [Kaggle Netflix Dataset](https://github.com/dev-boris67/AWS-Basics/blob/main/QuickSight/images/Screenshot%20(17).png?raw=true)
 - **Files Used**:
   - `netflix_titles.csv`
   - `manifest.json` 
@@ -50,7 +50,6 @@ Analyze and visualize Netflix titles using Amazon S3 and Amazon QuickSight. This
 
 ![Release Year Chart](https://github.com/dev-boris67/AWS-Basics/blob/main/QuickSight/images/Screenshot%20(18).png?raw=true).  
 ![Genre Breakdown](https://github.com/dev-boris67/AWS-Basics/blob/main/QuickSight/images/Screenshot%20(19).png?raw=true)
-![Date Added Chart](https://yourdomain.com/images/date-added-chart.png)
 
 ---
 
