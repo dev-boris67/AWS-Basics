@@ -37,7 +37,7 @@ Analyze and visualize Netflix titles using Amazon S3 and Amazon QuickSight. This
 - Signed up for QuickSight (free tier)
 - Connected S3 bucket as a data source
 
-![QuickSight Signup](https://yourdomain.com/images/quicksight-signup.png)
+![QuickSight Signup](https://github.com/dev-boris67/AWS-Basics/blob/main/QuickSight/images/Screenshot%20(16).png?raw=true)
 
 ---
 
@@ -64,14 +64,12 @@ Analyze and visualize Netflix titles using Amazon S3 and Amazon QuickSight. This
 
 ## 💬 Reflections
 
-> “It was most rewarding to see the target visualizations on the dashboard.”  
-> “I plan to work on VPC projects next.”
+> “It was most rewarding to see the target visualizations on the dashboard.”
 
 ---
 
 ## 🔮 Future Plans
-
-- Explore AWS VPC configurations  
+  
 - Integrate more datasets for comparative analysis  
 - Experiment with QuickSight’s natural language querying
 
@@ -80,10 +78,3 @@ Analyze and visualize Netflix titles using Amazon S3 and Amazon QuickSight. This
 ## 📚 Resources
 
 - [Amazon QuickSight Documentation](https://docs.aws.amazon.com/quicksight/)
-- [NextWork.org](https://nextwork.org)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
