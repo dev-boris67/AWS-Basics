@@ -6,8 +6,7 @@ Analyze and visualize Netflix titles using Amazon S3 and Amazon QuickSight. This
 
 ## 🧠 Overview
 
-- **Author**: Nchindo Boris  
-- **Platform**: [NextWork.org](https://nextwork.org)  
+- **Author**: Nchindo Boris    
 - **Tools Used**: Amazon S3, Amazon QuickSight  
 - **Duration**: ~2 hours  
 - **Goal**: Create a dashboard to explore Netflix content by year, genre, and date added.
@@ -19,7 +18,7 @@ Analyze and visualize Netflix titles using Amazon S3 and Amazon QuickSight. This
 - **Source**: [Kaggle Netflix Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - **Files Used**:
   - `netflix_titles.csv`
-  - `manifest.json` (edited to include correct S3 path)
+  - `manifest.json` 
 
 ---
 
@@ -30,7 +29,7 @@ Analyze and visualize Netflix titles using Amazon S3 and Amazon QuickSight. This
 - Uploaded `netflix_titles.csv` and `manifest.json`
 - Edited `manifest.json` to point to the correct S3 URL
 
-![S3 Bucket Screenshot](https://yourdomain.com/images/s3-bucket.png)
+![S3 Bucket Screenshot](https://github.com/dev-boris67/AWS-Basics/blob/main/QuickSight/images/Screenshot%20(15).png?raw=true)
 
 ---
 
