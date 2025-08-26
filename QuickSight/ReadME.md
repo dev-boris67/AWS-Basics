@@ -58,7 +58,7 @@ Analyze and visualize Netflix titles using Amazon S3 and Amazon QuickSight. This
 - Added descriptive titles
 - Exported dashboard as PDF
 
-🔗 [View Dashboard](https://eu-north-1.quicksight.aws.amazon.com/sn/account/nextwork-QuickSight-boris/dashboards/8c8a00dc-7ac2-4c53-9d4b-90e9a6cac857)
+🔗 [View Dashboard](https://github.com/dev-boris67/AWS-Basics/blob/main/QuickSight/images/Screenshot%20(20).png?raw=true)
 
 ---
 
