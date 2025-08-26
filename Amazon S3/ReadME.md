@@ -37,7 +37,7 @@ In this project, I:
 - Bucket names must be **globally unique**.
 
 📸 Example:  
-![S3 Bucket Setup](docs/s3-bucket.png)
+[![S3 Bucket Setup](docs/s3-bucket.png)](https://github.com/dev-boris67/AWS-Basics/blob/main/Amazon%20S3/doc/Screenshot%20(9).png?raw=true)
 
 ---
 
